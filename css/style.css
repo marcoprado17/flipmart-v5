@@ -323,7 +323,7 @@ header {
     left: 4px;
     top: 3px;
     opacity: .5;
-    background: url(../images/search.png) no-repeat top left;
+    background: url(../imgs/search.png) no-repeat top left;
 }
 
 .navbar-form .search-btn .glyphicon {
@@ -415,7 +415,7 @@ header {
 }
 
 .searchIconNew {
-    background: url("../images/search-icon.png") no-repeat scroll center center;
+    background: url("../imgs/search_icon.png") no-repeat scroll center center;
     width: 45px;
     height: 45px;
     left: 7px;
@@ -12097,7 +12097,7 @@ button.button.new-address:before {
     right: 10px;
     text-decoration: none;
     width: 45px;
-    background: url(../images/to-top-arrow.png) no-repeat center;
+    background: url(../imgs/to_top_arrow.png) no-repeat center;
     background-color: #333333;
     text-transform: uppercase;
     z-index: 100;
