@@ -194,7 +194,7 @@ jQuery(window).on("load", function () {
                     outDelay: 400,
                     containerID: "toTop",
                     containerHoverID: "toTopHover",
-                    scrollSpeed: 1200,
+                    scrollSpeed: 450,
                     easingType: "linear"
                 },
                 i = e.extend(a, t),
